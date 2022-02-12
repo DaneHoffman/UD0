@@ -49,7 +49,6 @@
 public class Card {
 
 	/*** CONSTANT VARIABLES ***/
-	String testVar = "test";
 
 
 	/*** INSTANCE VARIABLES ***/
